@@ -1,6 +1,6 @@
-# SRGIO ALEXO — Logo Package
+# SERGIO ALEXO — Logo Package
 
-Official logo assets for the **SRGIO ALEXO** brand.  
+Official logo assets for the **SERGIO ALEXO** brand.  
 This repository contains the first version of the visual identity, designed for use across music, digital platforms, and promotional materials.
 
 ---
@@ -61,6 +61,6 @@ Future updates may include new designs, refinements, and expanded assets.
 ---
 
 ## ⚠️ License
-All rights reserved © SRGIO ALEXO  
+All rights reserved © SERGIO ALEXO  
 
 > Note: Contributions may be reviewed and selectively included in official releases.
